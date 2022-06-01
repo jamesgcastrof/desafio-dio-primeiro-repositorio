@@ -1,2 +1,2 @@
 # Desafio DIO primeiro repositório 📚✔️
-Desafio primeiro projeto Git/Github ✔️
+Repositório para desafio primeiro projeto Git/Github ✔️
